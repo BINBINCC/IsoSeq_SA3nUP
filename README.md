@@ -2,6 +2,7 @@
 Last Updated: 08/09/2017
 
 Latest ToFU2 version: [tofu2_v17](https://github.com/Magdoll/cDNA_Cupcake/tree/tofu2_v17)
+
 Latest SMRTAnalysis/SMRTLink version: [v4.0](http://www.pacb.com/support/software-downloads/)
 
 Iso-Seq tutorial and code base for developers version (ToFU2). Based on SMRTAnalysis 3.x (and later) releases.
