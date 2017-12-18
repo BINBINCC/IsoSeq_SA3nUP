@@ -1,5 +1,7 @@
 # IsoSeq_SA3nUP
-Last Updated: 08/09/2017
+Last Updated: 12/18/2017
+
+**NOTE: UPCOMING EVENT** SMRT Informatics Developers Conference at PAG (Jan 17, 2018) is [open for registration](http://programs.pacificbiosciences.com/l/1652/2017-11-20/3vvp1l)!  
 
 Latest ToFU2 version: [tofu2_v17](https://github.com/Magdoll/cDNA_Cupcake/tree/tofu2_v17)
 
