@@ -1,15 +1,12 @@
 # IsoSeq_SA3nUP
-Last Updated: 12/18/2017
+Last Updated: 01/26/2018
 
-**NOTE: UPCOMING EVENT** SMRT Informatics Developers Conference at PAG (Jan 17, 2018) is [open for registration](http://programs.pacificbiosciences.com/l/1652/2017-11-20/3vvp1l)!  
 
-Latest ToFU2 version: [tofu2_v17](https://github.com/Magdoll/cDNA_Cupcake/tree/tofu2_v17)
+Latest ToFU2 version: [tofu2_v18](https://github.com/Magdoll/cDNA_Cupcake/tree/tofu2_v18)
 
-Latest SMRTAnalysis/SMRTLink version: [v4.0](http://www.pacb.com/support/software-downloads/)
+Latest SMRTAnalysis/SMRTLink version: [v5.0](http://www.pacb.com/support/software-downloads/)
 
-Iso-Seq tutorial and code base for developers version (ToFU2). Based on SMRTAnalysis 3.x (and later) releases.
-
-ToFU2 is now available! Please see the [ToFU2 slide deck](https://www.dropbox.com/s/muskjzgju0dl5ql/20170808_ToFU2_for_GitHub_legal_FINAL.pdf?dl=0) for all information. Report any issues using [Issues](https://github.com/PacificBiosciences/IsoSeq_SA3nUP/issues).
+IToFU2 is now available! Please see the [ToFU2 slide deck](https://www.dropbox.com/s/muskjzgju0dl5ql/20170808_ToFU2_for_GitHub_legal_FINAL.pdf?dl=0) for all information. Report any issues using [Issues](https://github.com/PacificBiosciences/IsoSeq_SA3nUP/issues).
 
 Please see [wiki](https://github.com/PacificBiosciences/IsoSeq_SA3nUP/wiki) for information, tutorials, tool listings, etc.
 
