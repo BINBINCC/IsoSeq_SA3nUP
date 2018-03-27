@@ -1,10 +1,10 @@
 # IsoSeq_SA3nUP
-Last Updated: 01/26/2018
+Last Updated: 03/27/2018
 
 
 Latest ToFU2 version: [tofu2_v18](https://github.com/Magdoll/cDNA_Cupcake/tree/tofu2_v18)
 
-Latest SMRTAnalysis/SMRTLink version: [v5.0](http://www.pacb.com/support/software-downloads/)
+Latest SMRTAnalysis/SMRTLink version: [v5.1](http://www.pacb.com/support/software-downloads/)
 
 IToFU2 is now available! Please see the [ToFU2 slide deck](https://www.dropbox.com/s/muskjzgju0dl5ql/20170808_ToFU2_for_GitHub_legal_FINAL.pdf?dl=0) for all information. Report any issues using [Issues](https://github.com/PacificBiosciences/IsoSeq_SA3nUP/issues).
 
