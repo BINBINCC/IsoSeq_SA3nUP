@@ -1,10 +1,8 @@
 # IsoSeq_SA3nUP
-Last Updated: 06/29/2018
+Last Updated: 07/30/2019
 
 
-Latest SMRTAnalysis/SMRTLink version: [v5.1](http://www.pacb.com/support/software-downloads/)
-
-[Iso-Seq3 developers version](http://github.com/PacificBiosciences/isoseq3) is now available! Please see the [Iso-Seq3 slide deck](https://www.dropbox.com/s/0hlqi7b79kzi8bh/20180517_AsiaUGM_BioinformaticsDeck_English_V5.pdf?dl=0) for information. Report any issues using [Issues](https://github.com/PacificBiosciences/IsoSeq_SA3nUP/issues).
+Latest SMRTAnalysis/SMRTLink version: [v7.0](http://www.pacb.com/support/software-downloads/)
 
 Please see [wiki](https://github.com/PacificBiosciences/IsoSeq_SA3nUP/wiki) for information, tutorials, tool listings, etc.
 
