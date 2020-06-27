@@ -1,8 +1,8 @@
 # IsoSeq_SA3nUP
-Last Updated: 12/05/2019
+Last Updated: 06/27/2020
 
 
-Latest SMRTAnalysis/SMRTLink version: [v8.0](http://www.pacb.com/support/software-downloads/)
+Latest SMRTAnalysis/SMRTLink version: [v9.0](https://www.pacb.com/products-and-services/analytical-software/)
 
 Please see [wiki](https://github.com/PacificBiosciences/IsoSeq_SA3nUP/wiki) for information, tutorials, tool listings, etc.
 
